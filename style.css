@@ -1,0 +1,87 @@
+body{
+    background-color: rgb(243, 214, 214);
+    width: 100%;
+}
+.navbar{
+    background-color: rgb(12, 12, 12);
+    overflow: hidden;
+    padding-left: 63%;
+    padding-bottom: 2px;
+    padding-top: 6px;
+    width: 40%;
+    margin: 0;
+    position: fixed;
+    top: 0%;
+}
+.navbar a{
+    color: white;
+    padding: 20px 12px;
+    text-decoration: none;
+    font-size: 17px;
+    margin: 0%;
+}
+.navbar a:hover{
+    background-color: rgb(216, 194, 194);
+}
+#address{
+    text-align: centers;
+}
+#ABOUT_ME{
+    width: 81%;
+    height: auto;
+    background-color: rgb(224, 205, 205);
+    padding: 15px 10px;
+    line-height: 2rem;
+    margin: 0 10%;
+    margin-top: 0%;
+}
+.image{
+    width: 30%;
+    float: left;
+    padding-left: 4%;
+    padding-top: 11%;
+}
+.ABOUT_RIGHT{
+    width: 50%;
+    display: inline-block;
+    line-height: 40px;
+    padding-left: 5%;
+   
+}
+#skills{
+    width: 80%;
+    height: auto;
+    background-color: rgb(228, 202, 202);
+    margin: 0 10%;
+    line-height: 30px;
+    text-align: left;
+    padding: 10PX 15PX;
+}
+#CV{
+    width: 80%;
+    height: auto;
+    background-color:rgb(231, 209, 209);
+    line-height: 30px;
+    margin: 0 10%;
+    padding: 10PX 15PX;
+}
+.hobbies{
+    width: 80%;
+    background-color: rgb(233, 211, 211);
+    line-height: 30px;
+    margin: 0 10%;
+    padding: 10PX 15PX;
+}.qualifications{
+    width: 80%;
+    background-color: rgb(233, 206, 206);
+    line-height: 30px;
+    margin: 0 10%;
+    padding: 10PX 15PX;
+}
+#Contact{
+    width: 80%;
+    background-color: rgb(228, 203, 203);
+    line-height: 30px;
+    margin: 0 10%;
+    padding: 10PX 15PX;
+}
